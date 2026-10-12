@@ -1,0 +1,11 @@
+
+
+-- 7. Who are the top 10 customers by total sales?
+
+
+SELECT CUSTOMER_ID, CUSTOMER_NAME,
+	SUM(SALES) AS TOTAL_SALES
+FROM salesPerformance
+GROUP BY CUSTOMER_ID, CUSTOMER_NAME
+ORDER BY TOTAL_SALES DESC
+LIMIT 10;
