@@ -123,6 +123,11 @@ This project demonstrates:
 - Data storytelling
 - Executive-style dashboard presentation
 
+## Badges
+
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ## Author
 
